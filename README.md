@@ -1,3 +1,7 @@
+= Forked from http://plugins.svn.wordpress.org/github-profile-display =
+
+![Screenshot](https://github.com/jarkko-hautakorpi/github-profile-display/blob/master/wordpress_plugin.jpg)
+
 === Plugin Name ===
 Contributors: pgogy, mhutchin
 Tags: github, repository, git
