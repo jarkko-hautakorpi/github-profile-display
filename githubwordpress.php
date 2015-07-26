@@ -3,7 +3,7 @@
   Plugin Name: Github Wordpress Widget
   Plugin URI: http://www.pgogy.com/code/groups/wordpress/github-wordpress-widget/
   Description: A widget for displaying github profiles
-  Version: v.1.chagrined.0.0.aromatic..7
+  Version: v.1.chagrined.0.0.aromatic.1437932580.7
   Author: Pgogy
   Author URI: http://www.pgogy.com
   License: GPL2
