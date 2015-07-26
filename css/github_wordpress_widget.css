@@ -11,3 +11,29 @@ a#githubrepshow{
 ul#gitbublist{
 	text-align:left;
 }
+
+div#githublistdiv ul#githublist li a.gitreponame {
+    width: 100%;
+    display: block;
+    border-bottom: 2px solid #82B965;
+}
+
+div#githublistdiv ul#githublist li p.git-commiter {
+
+}
+
+div#githublistdiv ul#githublist li p.git-commiter a.committername {
+    clear: both;
+    display: block;
+}
+div#githublistdiv ul#githublist li p.git-commiter span.commitdate {
+    clear: both;
+    display: inline-block;
+    margin-right: 3px;
+    font-size: 0.8em;
+}
+div#githublistdiv ul#githublist li p.git-commiter span.commitmessage {
+    font-size: 0.8em;
+    clear: both;
+    display: block;
+}
